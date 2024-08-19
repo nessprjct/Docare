@@ -1,6 +1,6 @@
 # Docare ChatBot Interface Setup
 
-1/  Create the chatBot Directory then add chatbotInterface.vue file.
+**[New]** Create the chatBot Directory then add chatbotInterface.vue file.
 path("src\components\chatBot\chatbotInterface.vue")
 
 2/ 2. Update the ChatBot Icon.
